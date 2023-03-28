@@ -1,0 +1,17 @@
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.vbproj.AssemblyReference.cache
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.Form1.resources
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.vbproj.GenerateResource.cache
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.AssemblyInfoInputs.cache
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.AssemblyInfo.vb
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.vbproj.CoreCompileInputs.cache
+D:\Practicas\Proyecto5\bin\Debug\net6.0-windows\Proyecto5.exe
+D:\Practicas\Proyecto5\bin\Debug\net6.0-windows\Proyecto5.deps.json
+D:\Practicas\Proyecto5\bin\Debug\net6.0-windows\Proyecto5.runtimeconfig.json
+D:\Practicas\Proyecto5\bin\Debug\net6.0-windows\Proyecto5.dll
+D:\Practicas\Proyecto5\bin\Debug\net6.0-windows\Proyecto5.pdb
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.dll
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\refint\Proyecto5.dll
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.pdb
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\Proyecto5.genruntimeconfig.cache
+D:\Practicas\Proyecto5\obj\Debug\net6.0-windows\ref\Proyecto5.dll
